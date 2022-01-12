@@ -1,3 +1,10 @@
+Some reminder before use:
+
+check if any "magisk" "topjohnwu" related are in the device, use find / -name "magisk*" in root permission to find.
+make sure the MagiskHide is proper turned on and the target app is choosen
+use mount to restrict paths only have read permission
+/system", "/system/bin", "/system/sbin", "/system/xbin", "/vendor/bin", "/sbin", "/etc"
+
 
 
 
